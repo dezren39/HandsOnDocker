@@ -10,10 +10,10 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.15.0",
-    "ejs": "^2.4.1",
+    "ejs": "^4.0.1",
     "express": "^4.13.4",
     "mongo": "^0.1.0",
-    "multer": "^1.1.0",
+    "multer": "^2.1.0",
     "request": "^2.69.0"
   }
 }
